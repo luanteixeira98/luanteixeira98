@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luanteixeira98
-- 👀 I’m interested in FrontEnd Development but im still learning sooo im a newbie and actually learning this new environment :P
+- 👀 I’m interested in backend Development but im still learning sooo im a newbie and actually learning this new environment :P
 - 🌱 I’m currently learning Python, JavaScript, Html and Css.
 - 💞️ I’m looking to collaborate on with creative people | projects.
 - 📫 How to reach me --> Through my email: teixeiraluan98@gmail.com
